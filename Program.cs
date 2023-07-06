@@ -7,6 +7,7 @@ namespace ConsoleSwitchDemo
         static void Main(string[] args) //Входната точка на всички конзолни програми
         {
             ShowMenu(); //извикваме метода показващ МЕНЮТО
+            //проба Дилян
 
             int n = int.Parse(Console.ReadLine());
 
