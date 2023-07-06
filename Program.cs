@@ -15,7 +15,7 @@ namespace ConsoleSwitchDemo
             Console.WriteLine("Факториелът нa " + n + " е " + f);
             Console.WriteLine($"Факториелът на {n} e {f}");
 
-            Console.ReadLine(); 
+            Console.ReadLine(); // demo edit ...
             //за да видим резултата преди да се затвори конзолата
         }
 
